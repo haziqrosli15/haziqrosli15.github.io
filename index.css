@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-image: url('/Users/admin/Projects/DasmotoArt/resources/images/pattern.jpeg');
+}
+
+.header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    background-color: skyblue;
+}
+
+.blue {
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
